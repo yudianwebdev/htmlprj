@@ -9,7 +9,7 @@ a {
     text-decoration: none;
 }
 .fas {
-    margin: auto;
+    margin: auto !important;
 }
 
 .medsos {
